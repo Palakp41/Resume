@@ -1,13 +1,13 @@
 # Resume
 
-#About
+# About
 PALAK BHOJANI
 20964 GOOSE PRESERVE DR · ASHBURN, VA 20148 · (703) 949-1172 · PALKABHOJANI@GMAIL.COM
 
 
 I am Full Stack Developer with around 5 years of professional experience in design and development of Web Applications. I am enthusiastic about learning new technologies and keeping up with them. I prefer working in a fast paced environment designing and developing applications. Always up for problem solving and challenges. Currently, I am hoping to transition into a Front-End Development position with a product-based company.
 
-#Experience
+# Experience
 Senior Software Engineer
 Ardent Management Consulting
 July 2016-Present
@@ -59,7 +59,7 @@ Design web parts using SharePoint 2010 and Microsoft Visual Studio
 Use of languages like: C#, Visual Basic, ASP.NET, JavaScript, HTML, CSS
 Worked on projects of web-designing that required workflows for a business process using K2 BlackPearl
 
-#Education
+# Education
 George Mason University
 Bachelor of Science
 August 2012-May 2014
