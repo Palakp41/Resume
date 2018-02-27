@@ -1,4 +1,7 @@
 # Resume
+
+This website is built using React.
+
 # About
 PALAK BHOJANI 20964 GOOSE PRESERVE DR · ASHBURN, VA 20148 · (703) 949-1172 · PALKABHOJANI@GMAIL.COM
 
