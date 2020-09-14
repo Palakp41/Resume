@@ -3,9 +3,9 @@
 This website is built using React.
 
 # About
-PALAK BHOJANI 20964 GOOSE PRESERVE DR · ASHBURN, VA 20148 · (703) 949-1172 · PALKABHOJANI@GMAIL.COM
+PALAK BHOJANI San Francisco, CA · (703) 949-1172 · PALKABHOJANI@GMAIL.COM
 
-I am Full Stack Developer with around 5 years of professional experience in design and development of Web Applications. I am enthusiastic about learning new technologies and keeping up with them. I prefer working in a fast paced environment designing and developing applications. Always up for problem solving and challenges. Currently, I am hoping to transition into a Front-End Development position with a product-based company.
+I am a Full Stack Developer with 6+ years of professional experience in design and development of Web Applications. I am enthusiastic about learning new technologies and keeping up with them. I prefer working in a fast paced environment designing and developing applications. Always up for problem solving and challenges. Currently, I am hoping to transition into a Front-End Development position with a product-based company.
 
 # Experience
 Senior Software Engineer Ardent Management Consulting July 2016-Present
